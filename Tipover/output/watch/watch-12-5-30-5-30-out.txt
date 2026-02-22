@@ -1,0 +1,4 @@
+Hours: 12, Start: 5:30, End: 5:30
+Total configs: 1
+Unique configs: 1
+Step 0: 5:30

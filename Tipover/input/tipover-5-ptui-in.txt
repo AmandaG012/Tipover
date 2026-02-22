@@ -1,0 +1,41 @@
+h
+m N
+m E
+m N
+h
+h
+m N
+r
+l data/tipover/tipover-2.txt
+m E
+m N
+m N
+m N
+h
+h
+l data/tipover/tipover-6.txt
+h
+m N
+l data/tipover/tipover-5.txt
+m W
+m N
+m N
+m N
+m W
+h
+r
+m E
+m N
+m E
+m E
+m N
+r
+m S
+m N
+m E
+m E
+m E
+m S
+l missing.txt
+asejere
+quit
